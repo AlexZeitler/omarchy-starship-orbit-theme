@@ -1,0 +1,41 @@
+# Starship Orbit
+# Dark ground from Deep Greyish Rose, text in Straw, the flame as accent.
+mode = "dark"
+
+accent = "#f09c18"
+hyprland_active_border = "rgba(f09c18ff) rgba(d78748ff) rgba(1080c0ff) 45deg"
+hyprland_inactive_border = "rgba(483030aa)"
+
+selection = "#483030"
+selection_background = "#483030"
+selection_foreground = "#ebbf7c"
+muted = "#8a96a4"
+
+background = "#231918"
+dark_background = "#1b1312"
+darker_background = "#140e0d"
+lighter_background = "#483030"
+
+foreground = "#e8d4b2"
+dark_foreground = "#b8a88c"
+light_foreground = "#f8ecd6"
+bright_foreground = "#fbf3e4"
+
+red = "#e09080"
+orange = "#d78748"
+magenta = "#c89aa8"
+purple = "#c89aa8"
+brown = "#906048"
+
+blue = "#3f93d6"
+cyan = "#90b0b0"
+green = "#91ab6d"
+yellow = "#ebbf7c"
+
+bright_red = "#f0b0a2"
+bright_orange = "#f09c18"
+bright_magenta = "#e0bcc6"
+bright_blue = "#78b4f0"
+bright_cyan = "#b8d8cc"
+bright_green = "#bccf9a"
+bright_yellow = "#f8e2b8"
